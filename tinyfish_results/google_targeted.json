@@ -1,0 +1,53 @@
+{
+  "query": "SWE and Test Engineer TE Google job California United States",
+  "results": [
+    {
+      "position": 1,
+      "site": "landing.google.com",
+      "title": "SWE and Test Engineer (TE)",
+      "url": "https://landing.google.com/engprod/careers/"
+    },
+    {
+      "position": 2,
+      "site": "www.linkedin.com",
+      "title": "4000+ Google Test Engineer Jobs in United States",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "position": 3,
+      "site": "www.indeed.com",
+      "title": "Now Hiring: 300 Google Software Engineer Jobs in California",
+      "url": "https://www.indeed.com"
+    },
+    {
+      "position": 4,
+      "site": "www.google.com",
+      "title": "Software Engineer, Early Career, Campus",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus"
+    },
+    {
+      "position": 5,
+      "site": "careers.google.com",
+      "title": "Software Test Engineer",
+      "url": "https://careers.google.com/jobs/results/127670839075054278-software-test-engineer/"
+    },
+    {
+      "position": 6,
+      "site": "www.ziprecruiter.com",
+      "title": "Google Test Engineer Jobs in San Jose, CA (NOW HIRING)",
+      "url": "https://www.ziprecruiter.com"
+    },
+    {
+      "position": 7,
+      "site": "careers.withwaymo.com",
+      "title": "Software Engineer, Pipeline and Test Health - Waymo Careers",
+      "url": "https://careers.withwaymo.com"
+    },
+    {
+      "position": 8,
+      "site": "www.glassdoor.com",
+      "title": "Google Jobs & Careers - 90 Open Positions",
+      "url": "https://www.glassdoor.com"
+    }
+  ]
+}

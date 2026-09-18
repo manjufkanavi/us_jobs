@@ -1,0 +1,52 @@
+{
+  "_generated": "2026-09-18",
+  "_purpose": "Search queries matched to Manjunath Kanavi's profile for finding and applying to relevant H-1B-friendly roles",
+  "_profile": {
+    "name": "Manjunath Kanavi",
+    "title": "Senior QA Automation Engineer",
+    "years_of_experience": 9,
+    "core_skills": ["Python", "Robot Framework", "Selenium", "Behave (BDD)", "PyTest"],
+    "cloud": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"],
+    "security": ["Firewalls", "IDS/IPS", "L3-L7 networking", "TLS/SSL", "HTTP protocol testing"],
+    "target_roles": ["QA Automation Engineer", "Cloud Security Test Engineer", "SDET", "Test Development Engineer"]
+  },
+  "_strategy": [
+    "Query 1 targets the exact title (core match)",
+    "Query 2 combines automation + security (niche, less competition)",
+    "Query 3 targets the SDET title common at FAANG/big tech",
+    "Query 4 focuses on cloud security testing (differentiator)",
+    "Query 5 captures broader automation/QA roles with Python"
+  ],
+  "searches": [
+    {
+      "id": 1,
+      "query": "QA Automation Engineer",
+      "match_reason": "Exact title match — core role across all 20 target companies",
+      "use_on": ["amazon.jobs/en/", "careers.microsoft.com", "jobs.apple.com", "metacareers.com/jobsearch/"]
+    },
+    {
+      "id": 2,
+      "query": "Cloud Security Test Engineer",
+      "match_reason": "Combines cloud + security testing — niche, leverages L3-L7/firewall/IDS-IPS background",
+      "use_on": ["amazon.jobs/en/", "careers.deloitte.com", "goldmansachs.com/careers"]
+    },
+    {
+      "id": 3,
+      "query": "SDET",
+      "match_reason": "Software Development Engineer in Test — the big-tech title for automation roles",
+      "use_on": ["amazon.jobs/en/", "jobs.apple.com", "metacareers.com/jobsearch/"]
+    },
+    {
+      "id": 4,
+      "query": "Security Test Engineer Cloud",
+      "match_reason": "Highlights firewall/IDS/PS/TLS expertise on multi-cloud (AWS/Azure/GCP)",
+      "use_on": ["amazon.jobs/en/", "ey.com", "pwc.com"]
+    },
+    {
+      "id": 5,
+      "query": "Python Automation Test Engineer",
+      "match_reason": "Captures roles requiring Python automation skill (Robot Framework/Selenium/PyTest)",
+      "use_on": ["amazon.jobs/en/", "careers.hcltech.com", "comm.com/company/careers"]
+    }
+  ]
+}

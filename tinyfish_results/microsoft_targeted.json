@@ -1,0 +1,35 @@
+{
+  "query": "site:careers.microsoft.com Software Test Automation Engineer United States",
+  "results": [
+    {
+      "position": 1,
+      "site": "careers.united.com",
+      "title": "United Airlines jobs: Careers at United Airlines",
+      "url": "https://careers.united.com"
+    },
+    {
+      "position": 2,
+      "site": "www.united.com",
+      "title": "Check Your United Flight Status - Search by Route or Flight ...",
+      "url": "https://www.united.com"
+    },
+    {
+      "position": 3,
+      "site": "www.un.org",
+      "title": "United Nations | Peace, dignity and equality on a healthy planet",
+      "url": "https://www.un.org"
+    },
+    {
+      "position": 4,
+      "site": "www.youtube.com",
+      "title": "United Breaks Guitars",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "position": 5,
+      "site": "sdgs.un.org",
+      "title": "THE 17 GOALS - Sustainable Development Goals",
+      "url": "https://sdgs.un.org"
+    }
+  ]
+}

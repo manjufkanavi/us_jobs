@@ -1,0 +1,87 @@
+{
+  "company": "Google",
+  "query": "QA Automation Engineer",
+  "count": 20,
+  "jobs": [
+    {
+      "title": "Silicon Automation Engineer",
+      "location": "| Tel Aviv, Israel"
+    },
+    {
+      "title": "Test Engineer, Android and Pixel System Test",
+      "location": "| New Taipei, Banqiao District, New Taipei City, Taiwan"
+    },
+    {
+      "title": "Software Engineer III, Fuchsia Subsystem and Connectivity",
+      "location": "| New Taipei, Banqiao District, New Taipei City, Taiwan"
+    },
+    {
+      "title": "Software Test Engineer",
+      "location": "| Mountain View, CA, USA"
+    },
+    {
+      "title": "Test Technical Program Manager",
+      "location": "| Hanoi, Ha Noi, Vietnam"
+    },
+    {
+      "title": "Silicon CAD Engineer II",
+      "location": "| Bengaluru, Karnataka, India"
+    },
+    {
+      "title": "Firmware Engineer, Modem/Telephony Protocol and AI Automation",
+      "location": "| London, UK"
+    },
+    {
+      "title": "CPU Design for Test Engineer, Google Cloud",
+      "location": "| Tel Aviv, Israel"
+    },
+    {
+      "title": "Senior Hardware Power Test Engineer, Platforms Infrastructure",
+      "location": "| Sunnyvale, CA, USA"
+    },
+    {
+      "title": "Software Engineer, Automated Correctness and Testing, DeepMind",
+      "location": "| Z\u00fcrich, Switzerland"
+    },
+    {
+      "title": "Engineering Manager, Operations Intelligence, gUP Engineering",
+      "location": "| Pittsburgh, PA, USA"
+    },
+    {
+      "title": "Senior Advanced Mechanical Manufacturing Engineer",
+      "location": "| Sunnyvale, CA, USA"
+    },
+    {
+      "title": "Senior Embedded Software Engineer, Android OS",
+      "location": "| San Jose, CA, USA"
+    },
+    {
+      "title": "Software Engineering Manager, Pixel Hearables, AI Test",
+      "location": "| New Taipei, Banqiao District, New Taipei City, Taiwan"
+    },
+    {
+      "title": "Senior Staff Software Engineer, Google Cloud Business Platform",
+      "location": "| Sunnyvale, CA, USA"
+    },
+    {
+      "title": "EMC Test Engineer, Platforms Infrastructure Engineering",
+      "location": "| Sunnyvale, CA, USA"
+    },
+    {
+      "title": "Software Engineer, RCS Video, Google Messages",
+      "location": "| Kirkland, WA, USA"
+    },
+    {
+      "title": "Senior Software Engineering Manager, GCBP Engineering Productivity",
+      "location": "| Sunnyvale, CA, USA"
+    },
+    {
+      "title": "Senior Software Engineer, GenAI Silicon Automation, DeepMind",
+      "location": "| Paris, France"
+    },
+    {
+      "title": "Senior Software Engineer, Storage Technologies, Google Cloud Platform",
+      "location": "| Taipei, Taiwan"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "query": "QA Automation Engineer jobs at Amazon.com California USA",
+  "results": [
+    {
+      "position": 1,
+      "site": "www.amazon.jobs",
+      "title": "Automation Engineer",
+      "url": "https://www.amazon.jobs/en/search?base_query=Automation+Engineer&loc_query="
+    },
+    {
+      "position": 2,
+      "site": "www.amazon.jobs",
+      "title": "Job search | Amazon.jobs",
+      "url": "https://www.amazon.jobs/en/search?base_query=automation+testing&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county="
+    },
+    {
+      "position": 3,
+      "site": "www.amazon.jobs",
+      "title": "Job search | Amazon.jobs",
+      "url": "https://www.amazon.jobs/en/search?base_query=qa+engineer&loc_query="
+    },
+    {
+      "position": 4,
+      "site": "www.linkedin.com",
+      "title": "135 Amazon Qa Engineer jobs in United States",
+      "url": "https://www.linkedin.com/jobs/amazon-qa-engineer-jobs"
+    },
+    {
+      "position": 5,
+      "site": "www.indeed.com",
+      "title": "25 Amazon QA Test Automation Jobs & Work",
+      "url": "https://www.indeed.com/q-amazon-qa-test-automation-jobs.html"
+    },
+    {
+      "position": 6,
+      "site": "www.amazon.jobs",
+      "title": "Job search | Amazon.jobs",
+      "url": "https://www.amazon.jobs/en/search?base_query=Quality+assurance"
+    },
+    {
+      "position": 7,
+      "site": "www.ziprecruiter.com",
+      "title": "Work From Home Amazon Automation Engineer Jobs ...",
+      "url": "https://www.ziprecruiter.com/Jobs/Work-From-Home-Amazon-Automation-Engineer"
+    },
+    {
+      "position": 8,
+      "site": "www.glassdoor.com",
+      "title": "Amazon Qa Automation Engineer Jobs",
+      "url": "https://www.glassdoor.com/Jobs/Amazon-qa-automation-engineer-Jobs-EI_IE6036.0,6_KO7,29.htm"
+    },
+    {
+      "position": 9,
+      "site": "www.amazon.jobs",
+      "title": "Quality Assurance Engineer II, Amazon Search Relevance ...",
+      "url": "https://www.amazon.jobs/en/jobs/10414519/quality-assurance-engineer-ii-amazon-search-relevance-measurement"
+    },
+    {
+      "position": 10,
+      "site": "jobright.ai",
+      "title": "Amazon Connect Ivr Automation Jobs in United States",
+      "url": "https://jobright.ai/jobs/qa-engineer-%E2%80%93-amazon-connect-ivr-automation-jobs-in-united-states"
+    }
+  ]
+}

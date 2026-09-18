@@ -1,0 +1,47 @@
+{
+  "query": "jobs.apple.com Software QA Automation Test Engineer United States",
+  "results": [
+    {
+      "position": 1,
+      "site": "jobs.apple.com",
+      "title": "Search Jobs - United States, Software and Services ... - Apple",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=software-quality-automation-tools-and-validation-SFTWR-SQAT"
+    },
+    {
+      "position": 2,
+      "site": "jobs.apple.com",
+      "title": "Software Automation QA Engineer - Security - Jobs - Careers ...",
+      "url": "https://jobs.apple.com/en-us/details/200615747/software-automation-qa-engineer-security"
+    },
+    {
+      "position": 3,
+      "site": "jobs.apple.com",
+      "title": "Search Jobs - Software and Services: Software Quality ... - Apple",
+      "url": "https://jobs.apple.com/en-us/search?team=software-quality-automation-tools-and-validation-SFTWR-SQAT"
+    },
+    {
+      "position": 4,
+      "site": "www.apple.com",
+      "title": "Apple Software and Services Jobs - Careers at Apple",
+      "url": "https://www.apple.com/careers/us/work-at-apple/teams/software-and-services.html"
+    },
+    {
+      "position": 5,
+      "site": "www.apple.com",
+      "title": "Apple Roles and Opportunities - Careers at Apple",
+      "url": "https://www.apple.com/careers/us/"
+    },
+    {
+      "position": 6,
+      "site": "jobs.apple.com",
+      "title": "Search Jobs - Software and Services: Software Quality ... - Apple",
+      "url": "https://jobs.apple.com/en-us/search?team=software-quality-automation-and-tools-SFTWR-SQAT&page=7"
+    },
+    {
+      "position": 7,
+      "site": "www.linkedin.com",
+      "title": "22 Apple Software Qa Engineer jobs in United States - LinkedIn",
+      "url": "https://www.linkedin.com/jobs/apple-software-qa-engineer-jobs"
+    }
+  ]
+}

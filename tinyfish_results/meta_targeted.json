@@ -1,0 +1,17 @@
+{
+  "query": "site:metacareers.com QA SDET Quality Assurance Engineer California",
+  "results": [
+    {
+      "position": 1,
+      "site": "www.metacareers.com",
+      "title": "Get personalized job recommendations from AI - Meta Careers",
+      "url": "https://www.metacareers.com/jobsearch/"
+    },
+    {
+      "position": 2,
+      "site": "www.metacareers.com",
+      "title": "Software Engineering Jobs: Build Future Tech at Meta",
+      "url": "https://www.metacareers.com/teams/technology/software-engineering/"
+    }
+  ]
+}
