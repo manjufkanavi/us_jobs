@@ -1,0 +1,112 @@
+{
+  "name": "Manjunath Kanavi",
+  "title": "Senior QA Automation Engineer",
+  "tagline": "Quality Engineering · Cloud Security · Automation",
+  "contact": {
+    "phone": "+91 9739669148",
+    "email": "manjufkanavi@gmail.com",
+    "location": "Bengaluru, India 560035",
+    "linkedin": "https://www.linkedin.com/in/manjufkanavi"
+  },
+  "profile": {
+    "summary": "Senior QA Engineer with 9 years of experience building test automation frameworks for enterprise security platforms. Expertise in multi-cloud security testing across AWS, Azure, and GCP, with deep knowledge of L3-L7 network protocols. Currently pursuing an M.Tech in AI/ML at BITS Pilani to advance ML-driven security automation and threat detection.",
+    "years_of_experience": 9
+  },
+  "skills": {
+    "automation": ["Python", "Robot Framework", "Selenium", "Behave (BDD)", "PyTest"],
+    "cloud_and_devops": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
+    "security_and_networking": ["TCP/IP", "HTTP/HTTPS", "HTTP/2", "TLS/SSL", "Firewalls", "IDS/IPS", "L3-L7"],
+    "tools_and_testing": ["Git", "JIRA", "Postman", "Linux", "LeakSanitizer", "REST APIs", "CI/CD", "Regression", "Performance"]
+  },
+  "experience": [
+    {
+      "company": "Cisco Systems India",
+      "role": "Software QA Engineer",
+      "location": "Bengaluru",
+      "start_date": "Jun 2022",
+      "end_date": "Present",
+      "responsibilities": [
+        "Designed and executed 500+ functional, integration, and regression test scenarios for cloud firewall features across AWS, Azure, and GCP.",
+        "Built an end-to-end Python + Robot Framework solution achieving 85% automation coverage for security policies.",
+        "Implemented Behave BDD suites for threat-detection workflows, improving readability for cross-functional teams.",
+        "Validated L3-L7 firewall and IDS/IPS functionality across protocols, traffic patterns, and rule configurations.",
+        "Containerized test infrastructure with Docker and Kubernetes, reducing execution time by 40%."
+      ]
+    },
+    {
+      "company": "Akamai Technologies",
+      "role": "QA Engineer 2",
+      "location": "Bengaluru",
+      "start_date": "Jan 2020",
+      "end_date": "Jun 2022",
+      "responsibilities": [
+        "Developed Python automation for HTTP, HTTPS, and HTTP/2 protocol compliance, ensuring adherence to 15+ RFC standards.",
+        "Built a high-performance Origin testing tool handling 300,000+ concurrent requests with 99.9% reliability.",
+        "Identified critical memory leaks with LeakSanitizer, preventing three potential production security vulnerabilities.",
+        "Automated TLS compliance validation across certificate configurations and cipher suites."
+      ]
+    },
+    {
+      "company": "Micro Focus (HP)",
+      "role": "Software Engineer",
+      "location": "Bengaluru",
+      "start_date": "Aug 2017",
+      "end_date": "Jan 2020",
+      "responsibilities": [
+        "Reduced regression testing time by 28% through Python and Selenium automation optimization.",
+        "Developed and maintained 200+ automated test cases for enterprise backup and recovery solutions.",
+        "Collaborated with development teams to introduce shift-left testing, reducing bug escape rate by 15%."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "KanjiRaja — Japanese Learning Platform",
+      "description": "Independently designed, developed, and deployed a full-stack application for learning Hiragana, Katakana, and Kanji through interactive quizzes, progress tracking, and spaced repetition."
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Tech, AI/ML",
+      "institution": "BITS Pilani · Hyderabad",
+      "status": "Ongoing — Expected Sep 2026"
+    },
+    {
+      "degree": "B.E., Computer Science",
+      "institution": "UVCE Bangalore",
+      "graduation_date": "Jul 2017"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Intro to Cybersecurity",
+      "issuer": "Cisco"
+    },
+    {
+      "name": "AWS Cloud Practitioner",
+      "issuer": "AWS"
+    },
+    {
+      "name": "GitHub Actions CI/CD",
+      "issuer": null
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "C2 (Proficient)"
+    },
+    {
+      "language": "Kannada",
+      "proficiency": "C2 (Proficient)"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "C2 (Proficient)"
+    },
+    {
+      "language": "Japanese",
+      "proficiency": "A1 (Beginner)"
+    }
+  ]
+}
