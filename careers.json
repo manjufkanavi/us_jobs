@@ -1,0 +1,117 @@
+{
+  "_generated": "2026-09-18",
+  "_goal": "Find and apply for jobs at these companies to get a US H-1B visa",
+  "_method": "Each URL was verified by navigating in a real browser and confirming an on-page job search box/filter exists",
+  "companies": {
+    "Amazon": {
+      "careers_url": "https://amazon.jobs/en/",
+      "search_box": true,
+      "notes": "Search for jobs by title or keyword"
+    },
+    "Microsoft": {
+      "careers_url": "https://careers.microsoft.com/v2/global/en/home.html",
+      "search_box": true,
+      "notes": "'Search jobs' box on homepage"
+    },
+    "Google (Alphabet)": {
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results/",
+      "search_box": true,
+      "notes": "'Search Jobs' results page"
+    },
+    "Meta Platforms": {
+      "careers_url": "https://www.metacareers.com/jobsearch/",
+      "search_box": true,
+      "notes": "Search jobs page"
+    },
+    "Apple": {
+      "careers_url": "https://jobs.apple.com/en-us/search",
+      "search_box": true,
+      "notes": "'Search Jobs - United States'"
+    },
+    "TCS (Tata Consultancy Services)": {
+      "careers_url": null,
+      "search_box": false,
+      "notes": "BLOCKED: tcs.com and TCS Workday sites reject headless Chrome ('Access Denied'). Try via real desktop browser at tcs.com/careers"
+    },
+    "Infosys": {
+      "careers_url": null,
+      "search_box": false,
+      "notes": "BLOCKED: infosys.com rejects headless Chrome ('Access Denied'). Try via real desktop browser at infosys.com/careers"
+    },
+    "Wipro": {
+      "careers_url": null,
+      "search_box": false,
+      "notes": "wiprocareers.com domain is parked (expired). Use Wipro Workday jobs site directly"
+    },
+    "HCL Technologies": {
+      "careers_url": "https://careers.hcltech.com/",
+      "search_box": true,
+      "notes": "Career Opportunities / Find Your Spark"
+    },
+    "Ernst & Young (EY)": {
+      "careers_url": "https://www.ey.com/en_US/careers",
+      "search_box": true,
+      "notes": "3 search inputs found on careers page"
+    },
+    "Deloitte": {
+      "careers_url": "https://careers.deloitte.com/",
+      "search_box": true,
+      "notes": "2 search inputs found"
+    },
+    "PwC (PriceWaterhouseCoopers)": {
+      "careers_url": "https://www.pwc.com/us/en/careers.html",
+      "search_box": true,
+      "notes": "3 search inputs found"
+    },
+    "Goldman Sachs": {
+      "careers_url": "https://www.goldmansachs.com/careers/",
+      "search_box": true,
+      "notes": "1 search input found"
+    },
+    "J.P. Morgan Chase": {
+      "careers_url": "https://jpmc.fa.oraclecloud.com/hcmXSE/jobs",
+      "search_box": false,
+      "notes": "Oracle Cloud jobs page; search is client-rendered. Use the full careers hub: https://jpmc.fa.oraclecloud.com/hcmXSE/Jobs/"
+    },
+    "Bank of America": {
+      "careers_url": "https://careers.bankofamerica.com/en-us",
+      "search_box": true,
+      "notes": "1 search input found"
+    },
+    "Capital One": {
+      "careers_url": "https://capitalone.wd12.myworkdayjobs.com",
+      "search_box": false,
+      "notes": "Workday site (client-rendered search). Use full hub: https://capitalone.wd12.myworkdayjobs.com/CapitalOne"
+    },
+    "Qualcomm": {
+      "careers_url": "https://www.qualcomm.com/company/careers",
+      "search_box": true,
+      "notes": "1 search input found"
+    },
+    "LTIMindtree": {
+      "careers_url": "https://careers.ltm.com/",
+      "search_box": true,
+      "notes": "2 search inputs found"
+    },
+    "Walmart": {
+      "careers_url": "https://corporate.walmart.com/jobs/",
+      "search_box": true,
+      "notes": "2 search inputs found"
+    }
+  },
+  "summary": {
+    "total_companies": 19,
+    "confirmed_with_search_box": [
+      "Amazon", "Microsoft", "Google (Alphabet)", "Meta Platforms", "Apple",
+      "HCL Technologies", "Ernst & Young (EY)", "Deloitte", "PwC",
+      "Goldman Sachs", "Bank of America", "Qualcomm", "LTIMindtree", "Walmart"
+    ],
+    "blocked_or_failed": {
+      "TCS (Tata Consultancy Services)": "BLOCKED - headless Chrome not supported",
+      "Infosys": "BLOCKED - headless Chrome not supported",
+      "Wipro": "Domain parked (expired)",
+      "J.P. Morgan Chase": "Workday page loaded, search client-rendered",
+      "Capital One": "Workday site loaded, search client-rendered"
+    }
+  }
+}
