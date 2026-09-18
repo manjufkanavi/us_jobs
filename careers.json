@@ -29,19 +29,19 @@
       "notes": "'Search Jobs - United States'"
     },
     "TCS (Tata Consultancy Services)": {
-      "careers_url": null,
+      "careers_url": "https://ibegin.tcsapps.com/candidate/",
       "search_box": false,
-      "notes": "BLOCKED: tcs.com and TCS Workday sites reject headless Chrome ('Access Denied'). Try via real desktop browser at tcs.com/careers"
+      "notes": "TCS Workday candidate portal"
     },
     "Infosys": {
-      "careers_url": null,
+      "careers_url": "https://www.infosys.com/careers.html",
       "search_box": false,
-      "notes": "BLOCKED: infosys.com rejects headless Chrome ('Access Denied'). Try via real desktop browser at infosys.com/careers"
+      "notes": "Infosys careers page"
     },
     "Wipro": {
-      "careers_url": null,
+      "careers_url": "https://careers.wipro.com/",
       "search_box": false,
-      "notes": "wiprocareers.com domain is parked (expired). Use Wipro Workday jobs site directly"
+      "notes": "Wipro careers site"
     },
     "HCL Technologies": {
       "careers_url": "https://careers.hcltech.com/",
@@ -54,9 +54,9 @@
       "notes": "3 search inputs found on careers page"
     },
     "Deloitte": {
-      "careers_url": "https://careers.deloitte.com/",
+      "careers_url": "https://www.deloitte.com/global/en/careers/job-search.html?icid=top_job-search",
       "search_box": true,
-      "notes": "2 search inputs found"
+      "notes": "Direct job-search results page"
     },
     "PwC (PriceWaterhouseCoopers)": {
       "careers_url": "https://www.pwc.com/us/en/careers.html",
@@ -64,29 +64,29 @@
       "notes": "3 search inputs found"
     },
     "Goldman Sachs": {
-      "careers_url": "https://www.goldmansachs.com/careers/",
+      "careers_url": "https://higher.gs.com/results?&page=1&sort=RELEVANCE",
       "search_box": true,
-      "notes": "1 search input found"
+      "notes": "Higher jobs board (results list)"
     },
     "J.P. Morgan Chase": {
-      "careers_url": "https://jpmc.fa.oraclecloud.com/hcmXSE/jobs",
+      "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs",
       "search_box": false,
-      "notes": "Oracle Cloud jobs page; search is client-rendered. Use the full careers hub: https://jpmc.fa.oraclecloud.com/hcmXSE/Jobs/"
+      "notes": "Oracle Cloud Candidate Experience jobs page"
     },
     "Bank of America": {
-      "careers_url": "https://careers.bankofamerica.com/en-us",
+      "careers_url": "https://careers.bankofamerica.com/en-us/job-search?ref=search&search=getAllJobs&start=0&rows=10",
       "search_box": true,
-      "notes": "1 search input found"
+      "notes": "Direct job-search results page"
     },
     "Capital One": {
-      "careers_url": "https://capitalone.wd12.myworkdayjobs.com",
+      "careers_url": "https://www.capitalonecareers.com/",
       "search_box": false,
-      "notes": "Workday site (client-rendered search). Use full hub: https://capitalone.wd12.myworkdayjobs.com/CapitalOne"
+      "notes": "Capital One careers hub"
     },
     "Qualcomm": {
-      "careers_url": "https://www.qualcomm.com/company/careers",
+      "careers_url": "https://careers.qualcomm.com/careers?start=0&pid=446718041729&sort_by=timestamp",
       "search_box": true,
-      "notes": "1 search input found"
+      "notes": "Direct job-search results page"
     },
     "LTIMindtree": {
       "careers_url": "https://careers.ltm.com/",
@@ -94,24 +94,31 @@
       "notes": "2 search inputs found"
     },
     "Walmart": {
-      "careers_url": "https://corporate.walmart.com/jobs/",
+      "careers_url": "https://careers.walmart.com/us/en/home",
       "search_box": true,
-      "notes": "2 search inputs found"
+      "notes": "Direct careers job-search home"
     }
   },
   "summary": {
     "total_companies": 19,
     "confirmed_with_search_box": [
-      "Amazon", "Microsoft", "Google (Alphabet)", "Meta Platforms", "Apple",
-      "HCL Technologies", "Ernst & Young (EY)", "Deloitte", "PwC",
-      "Goldman Sachs", "Bank of America", "Qualcomm", "LTIMindtree", "Walmart"
+      "Amazon",
+      "Microsoft",
+      "Google (Alphabet)",
+      "Meta Platforms",
+      "Apple",
+      "HCL Technologies",
+      "Ernst & Young (EY)",
+      "Deloitte",
+      "PwC",
+      "Goldman Sachs",
+      "Bank of America",
+      "Qualcomm",
+      "LTIMindtree",
+      "Walmart"
     ],
     "blocked_or_failed": {
-      "TCS (Tata Consultancy Services)": "BLOCKED - headless Chrome not supported",
-      "Infosys": "BLOCKED - headless Chrome not supported",
-      "Wipro": "Domain parked (expired)",
-      "J.P. Morgan Chase": "Workday page loaded, search client-rendered",
-      "Capital One": "Workday site loaded, search client-rendered"
+      "Note": "All 20 companies now have stored careers URLs; some use Workday/client-rendered search."
     }
   }
 }
